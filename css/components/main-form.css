@@ -1,4 +1,7 @@
 .main-form{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
     background-color: wheat;
     height: 400px;
     width: 400px;
