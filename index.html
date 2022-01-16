@@ -10,6 +10,7 @@
 
 
     <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/components/create-account.css">
     <link rel="stylesheet" href="css/components/forgotten-password.css">
     <link rel="stylesheet" href="css/components/main-body.css">
     <link rel="stylesheet" href="css/components/main-button.css">
@@ -18,10 +19,12 @@
     <link rel="stylesheet" href="css/components/main-section.css">
     <link rel="stylesheet" href="css/components/main-text.css">
     <link rel="stylesheet" href="css/components/main-title.css">
+    <link rel="stylesheet" href="css/components/renaissance-img.css">
+    <link rel="stylesheet" href="css/components/wrapper-components.css">
 </head>
 <body class="main-body">
     <section class="main-section">
-        <article >
+        <div class="wrapper-components">
             <form class="main-form" action="">
                 <legend class="main-title">Sign in</legend>
                 <label class="main-text" for="email">Email id</label>
@@ -31,7 +34,12 @@
                 <a class="forgotten-password" href="">Forgotten Password</a>
                 <input class="main-button" type="button" value="Login Now">
             </form>
-        </article>
+            <div class="create-account">
+                <p class="main-text">Don’t have account yet?</p>
+                <button class="main-button -create">Create account</button>
+            </div>
+            <img class="renaissance-img" src="assets/img/renaissance-img.png" alt="image renaissance">
+        </div>
     </section>
 </body>
 </html>

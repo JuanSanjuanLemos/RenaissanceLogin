@@ -1,0 +1,15 @@
+.wrapper-components{
+    position: relative;
+    width: 70%;
+    height: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 80px;
+
+    background: linear-gradient(116.52deg, rgba(255, 255, 255, 0.22) -0.3%, rgba(255, 255, 255, 0.2) 81.34%);
+    backdrop-filter: blur(20px);
+    border-radius: 20px;
+
+}
