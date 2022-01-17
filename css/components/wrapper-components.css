@@ -17,3 +17,10 @@
         background-color: #000;
     }
 }
+
+@media only screen and (max-width: 1300px) {
+    .wrapper-components{
+        width: 60vw;
+        padding-left: 0px;
+    }
+}

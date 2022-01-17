@@ -17,8 +17,8 @@
     color: #fff;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 750px){
     .main-input{
-        width: 50vw;
+        width: 40vw;
     }
 }
