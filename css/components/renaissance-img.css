@@ -7,7 +7,7 @@
 }
 
 @media only screen and (max-width: 1300px) {
-    img.renaissance-img{
+    .renaissance-img{
         display: none;
         visibility: hidden;
     }
