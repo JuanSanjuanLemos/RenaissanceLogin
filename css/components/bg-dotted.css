@@ -1,5 +1,6 @@
 .bg-dotted{
-    height: 100%;
-    padding-top: 20px;
+    max-height: inherit;
+    padding-top: 18px;
+    padding-bottom: 19px;
     background-image: url(../../assets/img/Rectangle.png);
 }

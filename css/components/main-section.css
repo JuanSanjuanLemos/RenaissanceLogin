@@ -12,3 +12,13 @@
     backdrop-filter: blur(20px);
     border-radius: 20px;
 }
+
+
+@supports not (backdrop-filter: blur()){
+    .main-section{
+        background: rgb(95, 95, 95);
+    }
+    .forgotten-password{
+        padding-top: 80px;
+    }
+}
