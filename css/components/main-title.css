@@ -1,0 +1,13 @@
+.main-title{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 67px;
+    color: #FFFFFF;
+    padding-bottom: 46px;
+}
+
+
+form{
+    background: #000;
+}

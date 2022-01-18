@@ -1,0 +1,7 @@
+.main-section{
+    display: flex;
+    width: 75%;
+    margin: auto;
+    align-items: flex-end;
+    justify-content: space-between;
+}
