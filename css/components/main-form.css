@@ -1,4 +1,5 @@
 .main-form{
     position: relative;
-    width: 350px;
+    width: 50%;
+    max-width: 35rem;
 }

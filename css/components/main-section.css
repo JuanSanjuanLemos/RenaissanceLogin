@@ -1,12 +1,12 @@
 .main-section{
     display: flex;
     width: 75%;
-    margin: auto;
-
+    max-width: 1100px ;
+    height: auto;
     align-items: flex-end;
     justify-content: space-between;
 
-    padding: 30px 30px 30px 95px;
+    padding:3rem 3rem 3rem  9.5rem;
 
     background: linear-gradient(116.52deg, rgba(255, 255, 255, 0.22) -0.3%, rgba(255, 255, 255, 0.2) 81.34%);
     backdrop-filter: blur(20px);
@@ -19,6 +19,6 @@
         background: rgb(95, 95, 95);
     }
     .forgotten-password{
-        padding-top: 80px;
+        padding-top: 8rem;
     }
 }
