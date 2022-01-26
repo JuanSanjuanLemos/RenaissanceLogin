@@ -17,6 +17,6 @@ html{
         max-width: none;
     }
     .body-background{
-        background-size: auto 100vh;
+        background-size: 100vw 100vh;
     }
 }
